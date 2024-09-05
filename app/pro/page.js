@@ -13,7 +13,7 @@ export default function ProFeaturePage() {
           Pro Feature Coming Soon!
         </Typography>
         <Typography variant="body1" sx={{ mb: 2 }}>
-          We're excited to bring new features to our pro users. However, this feature is not yet available. Please stay tuned for updates.
+          We are excited to bring new features to our pro users. However, this feature is not yet available. Please stay tuned for updates.
         </Typography>
         <Button variant="contained" color="primary" onClick={() => router.push('/')}>
           Back to Home
